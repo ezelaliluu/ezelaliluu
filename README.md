@@ -46,7 +46,7 @@
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://tenor.com/id/view/say-discord-marvel-snap-marvel-animation-gif-2231862960507269237" />
+        <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
       </td>
       <td valign="center">
         <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
