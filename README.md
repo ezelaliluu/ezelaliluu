@@ -5,11 +5,7 @@
 </div>
 
 <p align="center">
-  <samp><strong>Software Engineering Student | Web Developer</strong></samp>
-</p>
-
-<p align="center">
-  <samp>Currently studying <strong>Rekayasa Perangkat Lunak (Software Engineering)</strong> at SMKN 8 Jakarta.</samp>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Web+Developer;React%2C+Next.js+%26+Node.js+Enthusiast&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
 </p>
 
 ---
