@@ -4,6 +4,29 @@
   <img height="70" src="https://count.getloli.com/@:ezelaliluu?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
 
+<p align="center">
+  <samp><strong>Software Engineering Student | Web Developer</strong></samp>
+</p>
+
+<p align="center">
+  <samp>Currently studying <strong>Rekayasa Perangkat Lunak (Software Engineering)</strong> at SMKN 8 Jakarta.</samp>
+</p>
+
+---
+
+### About Me
+
+* **Education:** Software Engineering Student at **SMKN 8 Jakarta**.
+* **Focus:** Deepening my knowledge in **Web Development**, expanding skills across modern frontend and backend technologies.
+* **Problem Solving:** Passionate about learning new programming languages, building web projects, and exploring modern tech stacks.
+
+### Fun Fact
+
+* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character!
+* **JKT48 Enthusiast:** I'm a huge fan of JKT48! I love almost every member—well, actually *all* of them (just kidding! 😂). Aside from the members, I’m also genuinely obsessed with their songs and discography!
+
+---
+
 ###
 
 <div align="center">
