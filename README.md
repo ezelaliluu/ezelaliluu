@@ -32,10 +32,10 @@
   <a href="https://linkedin.com/in/ezelaliluu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/ezelaliluu" target="_blank">
+  <a href="https://instagram.com/ezel.yz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:ezelaliluu@gmail.com">
+  <a href="mailto:rezzzel28@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -46,13 +46,13 @@
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" />
+        <img height="130" src="https://tenor.com/cO17raFa2GT.gif" />
       </td>
       <td valign="center">
         <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
       </td>
       <td valign="center">
-        <img height="130" src="https://media1.tenor.com/m/a9D3bm9oZiAAAAAC/izumo-tenka.gif" />
+        <img height="130" src="https://tenor.com/mmi0Mqp5TPb.gif" />
       </td>
     </tr>
   </table>
