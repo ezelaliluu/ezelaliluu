@@ -54,7 +54,7 @@
         <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
       </td>
       <td valign="center">
-        <img height="130" src="https://media.tenor.com/jg13-skR7UsAAAAi/skidding-to-a-stop-ghost-rider.gif" />
+        <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
       </td>
     </tr>
   </table>
