@@ -46,13 +46,13 @@
   <table>
     <tr>
       <td valign="center">
-        <img height="130" src="https://tenor.com/cO17raFa2GT.gif" />
+        <img height="130" src="https://tenor.com/id/view/say-discord-marvel-snap-marvel-animation-gif-2231862960507269237" />
       </td>
       <td valign="center">
         <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
       </td>
       <td valign="center">
-        <img height="130" src="https://tenor.com/mmi0Mqp5TPb.gif" />
+        <img height="130" src="https://tenor.com/id/view/skidding-to-a-stop-ghost-rider-today-in-marvel-history-akira-slide-timh-gif-15060223410702711999f" />
       </td>
     </tr>
   </table>
