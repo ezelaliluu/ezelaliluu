@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
@@ -52,7 +54,7 @@
         <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
       </td>
       <td valign="center">
-        <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
+        <img height="130" src="https://media.tenor.com/jg13-skR7UsAAAAi/skidding-to-a-stop-ghost-rider.gif" />
       </td>
     </tr>
   </table>
