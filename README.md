@@ -1,68 +1,71 @@
-<h1 align="center">Hi there, I'm Muhammad Alfarezel Arsano 👋</h1>
+<h1 align="center">Hey What's Up? I'm Muhammad Alfarezel Arsano 👋</h1>
 
-<p align="center">
-  <em>Passionate developer / Tech enthusiast driven by curiosity and building cool things.</em>
-</p>
+<div align="center">
+  <img height="70" src="https://count.getloli.com/@:ezelaliluu?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezelaliluu&color=bluestyle=flat-square" alt="Profile Views" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+</div>
 
-### 🚀 About Me
+###
 
-- 🔭 Currently working on **[Sebutkan project kamu saat ini]**
-- 🌱 Currently learning **[Sebutkan teknologi/bahasa yang sedang dipelajari]**
-- 💬 Ask me about **[Sebutkan keahlian kamu, misal: Web Development, Python, React]**
-- ⚡ Fun fact: **[Tulis hal unik tentang kamu]**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### Languages & Frameworks
-p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezelaliluu&show_icons=true&theme=tokyonight&hide_border=true" alt="ezelaliluu's github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezelaliluu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezelaliluu&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://linkedin.com/in/ezelaliluu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/ezelaliluu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ezelaliluu@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-</p>
+</div>
+
+###
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center">
+        <img height="130" src="https://media1.tenor.com/m/rjoccQC3CBIAAAAC/tenka-izumo-chained-soldier.gif" />
+      </td>
+      <td valign="center">
+        <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
+      </td>
+      <td valign="center">
+        <img height="130" src="https://media1.tenor.com/m/a9D3bm9oZiAAAAAC/izumo-tenka.gif" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezelaliluu/ezelaliluu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezelaliluu/ezelaliluu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezelaliluu/ezelaliluu/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+###
