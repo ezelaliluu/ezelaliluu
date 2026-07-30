@@ -4,9 +4,7 @@
   <img height="70" src="https://count.getloli.com/@:ezelaliluu?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Web+Developer;React%2C+Next.js+%26+Node.js+Enthusiast&font=Fira+Code&weight=600&size=20&center=true&width=650&height=40&color=A855F7&vCenter=true" alt="Typing Header" />
-</p>
+
 
 ---
 
