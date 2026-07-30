@@ -1,4 +1,4 @@
-<h1 align="center">Hey What's Up? I'm Muhammad Alfarezel Arsano 👋</h1>
+<h1 align="center">Hey What's Up? I'm Muhammad Alfarezel Arsano</h1>
 
 <div align="center">
   <img height="70" src="https://count.getloli.com/@:ezelaliluu?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
@@ -18,7 +18,7 @@
 
 ### Fun Fact
 
-* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character! 🔥
+* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character!
 * **JKT48 Enthusiast:** Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography! 🎵
 
 ---
