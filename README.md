@@ -18,18 +18,16 @@
 
 ### Fun Fact
 
-* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character!
-* **JKT48 Enthusiast:** I'm a huge fan of JKT48! Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography!
+* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character! 🔥
+* **JKT48 Enthusiast:** Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography! 🎵
 
 ---
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,php,ts,react,nextjs,tailwind,nodejs,cs,cpp,py,visualstudio,vscode&perline=7" />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-alfarezel-arsano-74b871425?" target="_blank">
@@ -43,7 +41,7 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
   <table>
@@ -52,7 +50,7 @@
         <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
       </td>
       <td valign="center">
-        <img src="https://streak-stats.demolab.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ezelaliluu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" />
       </td>
       <td valign="center">
         <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
@@ -61,7 +59,7 @@
   </table>
 </div>
 
-###
+---
 
 <div align="center">
 <picture>
@@ -70,5 +68,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezelaliluu/ezelaliluu/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-###
