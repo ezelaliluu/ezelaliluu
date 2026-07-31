@@ -10,7 +10,11 @@
 
 ---
 
+### About Me
 
+* **Education:** Software Engineering Student at **SMKN 8 Jakarta**.
+* **Focus:** Deepening my knowledge in **Web Development**, expanding skills across modern frontend and backend technologies.
+* **Problem Solving:** Passionate about learning new programming languages, building web projects, and exploring modern tech stacks.
 
 ### Fun Fact
 
