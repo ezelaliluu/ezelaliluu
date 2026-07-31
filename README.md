@@ -19,7 +19,7 @@
 ### Fun Fact
 
 * **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character!
-* **JKT48 Enthusiast:** Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography! 🎵
+* **JKT48 Enthusiast:** Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography!
 
 ---
 
@@ -50,7 +50,7 @@
         <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
       </td>
       <td valign="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ezelaliluu&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta" height="140" alt="streak graph" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ezelaliluu&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=1" height="140" alt="streak graph" />
       </td>
       <td valign="center">
         <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
