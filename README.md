@@ -50,7 +50,7 @@
         <img height="130" src="https://media1.tenor.com/m/HvkriaRjMHUAAAAd/say-discord.gif" />
       </td>
       <td valign="center">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ezelaliluu&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=1" height="140" alt="streak graph" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ezelaliluu&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
       </td>
       <td valign="center">
         <img height="130" src="https://media1.tenor.com/m/0QCpZkj0_L8AAAAC/skidding-to-a-stop-ghost-rider.gif" />
