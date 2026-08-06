@@ -1,4 +1,4 @@
-<h1 align="center">Hey What's Up? I'm Muhammad Alfarezel Arsano</h1>
+
 
 <div align="center">
   <img height="70" src="https://count.getloli.com/@:ezelaliluu?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
