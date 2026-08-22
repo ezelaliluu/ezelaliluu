@@ -18,7 +18,7 @@
 
 ### Fun Fact
 
-* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** as my absolute favorite character!
+* **Marvel Fanatic:** Big fan of the Marvel Universe, with **Ghost Rider** and **Symbiote Spider-Man** as my absolute favorite characters!
 * **JKT48 Enthusiast:** Honestly, I'm a big fan of JKT48. And my oshi is... **EVERYONE!** Haha just kidding, but it's genuinely so hard to pick just one. Aside from the members, I’m also genuinely obsessed with their songs and discography!
 
 ---
