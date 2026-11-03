@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,ts,laravel,cs,cpp,py,visualsltudio,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,ts,laravel,cs,cpp,py,visualsltudio,vscode&perline=5" />
 </div>
 
 ---
